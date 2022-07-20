@@ -1,5 +1,5 @@
 Brand,Wifi Adaptater,Driver,Version,Debian,Linux Mint,Fedora,RedHat,Ubuntu,Manjaro,Add a Working driver,Github Page 
 TP-Link,TL-WN725N Nano,rtl8188eu,1,Yes,Yes,Not Tested Yet,Not Tested Yet,Not Tested Yet,No Need,,
 TP-Link,Archer T2U Plus,rtl8821au,1,No,No,No,No,No,No,rtl88XXau,https://github.com/aircrack-ng/rtl8812au
-TP-Link,TL-WN823N,2,No,No,No,No,No,No,rtl8192eu,https://github.com/Mange/rtl8192eu-linux-driver
+TP-Link,TL-WN823N,,2,No,No,No,No,No,No,rtl8192eu,https://github.com/Mange/rtl8192eu-linux-driver
 D-Link,DWL-G122,,3.30 (E),,,,,,,,
