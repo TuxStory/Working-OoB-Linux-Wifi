@@ -3,3 +3,4 @@ TP-Link,TL-WN725N Nano,rtl8188eu,1,Yes,Yes,Not Tested Yet,Not Tested Yet,Not Tes
 TP-Link,Archer T2U Plus,rtl8821au,1,No,No,No,No,No,No,rtl88XXau,https://github.com/aircrack-ng/rtl8812au
 TP-Link,TL-WN823N,,2,No,No,No,No,No,No,rtl8192eu,https://github.com/Mange/rtl8192eu-linux-driver
 D-Link,DWL-G122,rt73usb,3.30 (E),Yes,Not Tested Yet,Not Tested Yet,Not Tested Yet,Not Tested Yet,,,
+Thomson,TG123g,rt73usb,1,Yes,Not Tested Yet,Not Tested Yet,Not Tested Yet,Not Tested Yet,,,
