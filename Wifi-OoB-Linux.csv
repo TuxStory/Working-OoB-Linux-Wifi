@@ -5,4 +5,4 @@ TP-Link,TL-WN823N,rt8xxxu,300Mbps,2,No,No,No,No,Yes,No,rtl8192eu,https://github.
 D-Link,DWL-G122,rt73usb,54Mbps,3.30 (E),Yes,Yes,Yes,No,Yes,Yes,,
 Thomson,TG123g,rtl8187,54Mbps,1,Yes,Yes,Yes,No,Yes,Yes,,
 
-D-Link,DWL-510g,rt,54Mbps,1,Yes,,,,,,,,,
+D-Link,DWL-510g,rt,54Mbps,1,Yes,,,,,,,,
