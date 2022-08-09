@@ -1,4 +1,4 @@
-Brand,Model,Driver,Vitesse,Version,Debian 11,Linux Mint 20,Fedora 36,RedHat,Ubuntu 22.04,Manjaro,Needed Driverr,Github Page 
+Brand,Model,Driver,Vitesse,Version,Debian 11,Linux Mint 20,Fedora 36,RedHat,Ubuntu 22.04,Manjaro,Needed Driver,Github Page 
 TP-Link,TL-WN725N Nano,rtl8188eu,N 150Mbps,1,Yes,Yes,No,No,No,No,,
 TP-Link,Archer T2U Plus,rtl8821au,AC 600Mbps,1,No,No,No,No,No,No,rtl88XXau,https://github.com/aircrack-ng/rtl8812au
 TP-Link,TL-WN823N,rt8xxxu,N 300Mbps,2,No,No,No,No,Yes,No,rtl8192eu,https://github.com/Mange/rtl8192eu-linux-driver
