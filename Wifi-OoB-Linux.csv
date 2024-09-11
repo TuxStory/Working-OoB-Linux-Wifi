@@ -1,13 +1,13 @@
 Brand,Model,Driver,Vitesse,Version,Debian 11,Debian 12,Linux Mint 20,Fedora 36,RedHat,Ubuntu 22.04,Manjaro,Needed Driver,Github Page 
 TP-Link,TL-WN725N Nano,rtl8188eu,N 150Mbps,1,Yes,Yes,Yes,No,No,No,No,,
-TP-Link,Archer T2U Plus,rtl8821au,AC 600Mbps,1,No,No,No,No,,No,,No,No,rtl88XXau,https://github.com/aircrack-ng/rtl8812au
-TP-Link,TL-WN823N,rt8xxxu,N 300Mbps,2,No,Yes,No,No,,,No,Yes,No,rtl8192eu,https://github.com/Mange/rtl8192eu-linux-driver
+TP-Link,Archer T2U Plus,rtl8821au,AC 600Mbps,1,No,No,No,No,No,No,No,rtl88XXau,https://github.com/aircrack-ng/rtl8812au
+TP-Link,TL-WN823N,rt8xxxu,N 300Mbps,2,No,Yes,No,No,No,Yes,No,rtl8192eu,https://github.com/Mange/rtl8192eu-linux-driver
 D-Link,DWL-G122,rt73usb,G 54Mbps,3.30 (E),Yes,Yes,Yes,Yes,No,Yes,Yes,,
-Thomson,TG123g,rtl8187,G 54Mbps,1,Yes,Yes,Yes,Yes,,,No,Yes,Yes,,
+Thomson,TG123g,rtl8187,G 54Mbps,1,Yes,Yes,Yes,Yes,No,Yes,Yes,,
 PCI,&,LAPTOP,,,,,,,,,,,
 D-Link,DWL-510g,rt61pci,G 54Mbps,1,Yes,Yes,,,,,,,
-Qualcomm,AR9485,ath9k,N 150Mbps,1,Yes,Yes,Yes,,Yes,No,Yes,Yes,,
-Qualcomm,AR93xx,ath9k,N 150Mbps,1,Yes,,Yes,Yes,,No,Yes,Yes,,
-Qualcomm,QCA6174,ath10k_pci,AC 600Mbps,1,,Yes,Yes,,Yes,,Yes,Yes,,
-Intel,Wireless 7260,iwlwifi,N 300Mbps,1,Yes,Yes,Yes,,Yes,,Yes,Yes,,
-Intel,Wifi 6 AX200,iwlwifi,AC 600Mbps,1,Yes,,Yes,Yes,,,Yes,Yes,,
+Qualcomm,AR9485,ath9k,N 150Mbps,1,Yes,Yes,Yes,Yes,No,Yes,Yes,,
+Qualcomm,AR93xx,ath9k,N 150Mbps,1,Yes,,Yes,Yes,No,Yes,Yes,,
+Qualcomm,QCA6174,ath10k_pci,AC 600Mbps,1,,Yes,Yes,Yes,,Yes,Yes,,
+Intel,Wireless 7260,iwlwifi,N 300Mbps,1,Yes,Yes,Yes,Yes,,Yes,Yes,,
+Intel,Wifi 6 AX200,iwlwifi,AC 600Mbps,1,Yes,,Yes,Yes,,Yes,Yes,,
